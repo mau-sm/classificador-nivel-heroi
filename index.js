@@ -1,1 +1,0 @@
-let heroi = "wolfgang amadeus"
